@@ -1,24 +1,24 @@
-# DDTank - Versão 4.1
+# DDTank - Version 4.1
 
-- Este e um projeto open source livre para criar seu servidor.
+- This is a free open source project for creating your own server.
 
-# Observaçoes:
-- Está em fase de desenvolvimento, ou seja, nao esta 100% pronto
+# Observations:
+- It is in the development phase, meaning it is not 100% complete.
 
 # Build
-- Para compilar o projeto, você deve usar o Visual Studio 2019 com o .NET Framework 4.5.2.
+- To compile the project, you should use Visual Studio 2019 with .NET Framework 4.5.2.
 
-# Configurando
+# Configuring
 - https://www.youtube.com/watch?v=zYMC9TeS3Q4
 
-# Info + 
-- Acesse a nossa [wiki aqui](https://github.com/SkelletonX/DDTank4.1/wiki)
+# More Info
+- Access our [wiki here](https://github.com/SkelletonX/DDTank4.1/wiki)
 
-# Membros do Projeto
+# Project Members
 - **SKELLETONX**
 - amrmostafa800
 
-# Disocrd
+# Discord
 - https://discord.com/invite/4BRuPVV6bq
 
 # Release Server
